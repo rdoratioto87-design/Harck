@@ -1,6 +1,15 @@
                                  Apache License
                            Version 2.0, freefire capa 2004
-                        http://www.apache.org/licenses/
+                        Sensibilidade para nova atualização
+A escala de 200 pontos permite ajustes mais altos, mas chegar ao limite não significa ter mais precisão. Compare as faixas abaixo e comece pela coluna que corresponde ao tipo de controle desejado.
+
+Configuração	Nível Pro	Gerador	Desempenho
+Geral	185 - 200	170 - 195	Reflexos 360° Ultra-Rápidos
+Ponto Vermelho	160 - 185	175 - 190	Subir Capa Instantâneo
+Mira 2x	140 - 170	155 - 180	Rastreio de Balas (Média Distância)
+Mira 4x	120 - 150	135 - 165	Controle de Recuo (Longa Distância)
+Sniper (AWM)	80 - 110	90 - 120	Quick-Scope de Precisão
+http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
